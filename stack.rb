@@ -10,7 +10,7 @@ class Stack
     old_top.element
   end
 end
-
+## Path: node.rb
 class Node
   attr_reader :element, :next_node
 
